@@ -1,126 +1,126 @@
 [
   {
-    "weight_kg": "0.0 - 0.1 kg",
+    "weight_kg": "0.0 - 0.1",
     "listings_above_threshold": "USD 3.99",
     "listings_below_threshold": "USD 1"
   },
   {
-    "weight_kg": "0.1 - 0.2 kg",
+    "weight_kg": "0.1 - 0.2",
     "listings_above_threshold": "USD 5.03",
     "listings_below_threshold": "USD 1"
   },
   {
-    "weight_kg": "0.2 - 0.3 kg",
+    "weight_kg": "0.2 - 0.3",
     "listings_above_threshold": "USD 6.35",
     "listings_below_threshold": "USD 1"
   },
   {
-    "weight_kg": "0.3 - 0.4 kg",
+    "weight_kg": "0.3 - 0.4",
     "listings_above_threshold": "USD 7.85",
     "listings_below_threshold": "USD 1,5"
   },
   {
-    "weight_kg": "0.4 - 0.5 kg",
+    "weight_kg": "0.4 - 0.5",
     "listings_above_threshold": "USD 9.13",
     "listings_below_threshold": "USD 1,5"
   },
   {
-    "weight_kg": "0.5 - 0.6 kg",
+    "weight_kg": "0.5 - 0.6",
     "listings_above_threshold": "USD 10.01",
     "listings_below_threshold": "USD 3"
   },
   {
-    "weight_kg": "0.6 - 0.7 kg",
+    "weight_kg": "0.6 - 0.7",
     "listings_above_threshold": "USD 11.22",
     "listings_below_threshold": "USD 3"
   },
   {
-    "weight_kg": "0.7 - 0.8 kg",
+    "weight_kg": "0.7 - 0.8",
     "listings_above_threshold": "USD 11.79",
     "listings_below_threshold": "USD 3"
   },
   {
-    "weight_kg": "0.8 - 0.9 kg",
+    "weight_kg": "0.8 - 0.9",
     "listings_above_threshold": "USD 13.34",
     "listings_below_threshold": "USD 5"
   },
   {
-    "weight_kg": "0.9 - 1.0 kg",
+    "weight_kg": "0.9 - 1.0",
     "listings_above_threshold": "USD 13.97",
     "listings_below_threshold": "USD 5"
   },
   {
-    "weight_kg": "1.0 - 1.5 kg",
+    "weight_kg": "1.0 - 1.5",
     "listings_above_threshold": "USD 18.47",
     "listings_below_threshold": "USD 10"
   },
   {
-    "weight_kg": "1.5 - 2.0 kg",
+    "weight_kg": "1.5 - 2.0",
     "listings_above_threshold": "USD 25.06",
     "listings_below_threshold": "USD 20"
   },
   {
-    "weight_kg": "2.0 - 3.0 kg",
+    "weight_kg": "2.0 - 3.0",
     "listings_above_threshold": "USD 46.11",
     "listings_below_threshold": "USD 30"
   },
   {
-    "weight_kg": "3.0 - 4.0 kg",
+    "weight_kg": "3.0 - 4.0",
     "listings_above_threshold": "USD 55.18",
     "listings_below_threshold": "USD 40"
   },
   {
-    "weight_kg": "4.0 - 5.0 kg",
+    "weight_kg": "4.0 - 5.0",
     "listings_above_threshold": "USD 68.98",
     "listings_below_threshold": "USD 68.98"
   },
   {
-    "weight_kg": "5.0 - 6.0 kg",
+    "weight_kg": "5.0 - 6.0",
     "listings_above_threshold": "USD 82.68",
     "listings_below_threshold": "USD 82.68"
   },
   {
-    "weight_kg": "6.0 - 7.0 kg",
+    "weight_kg": "6.0 - 7.0",
     "listings_above_threshold": "USD 96.38",
     "listings_below_threshold": "USD 96.38"
   },
   {
-    "weight_kg": "7.0 - 8.0 kg",
+    "weight_kg": "7.0 - 8.0",
     "listings_above_threshold": "USD 110.08",
     "listings_below_threshold": "USD 110.08"
   },
   {
-    "weight_kg": "8.0 - 9.0 kg",
+    "weight_kg": "8.0 - 9.0",
     "listings_above_threshold": "USD 123.78",
     "listings_below_threshold": "USD 123.78"
   },
   {
-    "weight_kg": "9.0 - 10.0 kg",
+    "weight_kg": "9.0 - 10.0",
     "listings_above_threshold": "USD 137.48",
     "listings_below_threshold": "USD 137.48"
   },
   {
-    "weight_kg": "10.0 - 11.0 kg",
+    "weight_kg": "10.0 - 11.0",
     "listings_above_threshold": "USD 151.18",
     "listings_below_threshold": "USD 151.18"
   },
   {
-    "weight_kg": "11.0 - 12.0 kg",
+    "weight_kg": "11.0 - 12.0",
     "listings_above_threshold": "USD 164.88",
     "listings_below_threshold": "USD 164.88"
   },
   {
-    "weight_kg": "12.0 - 13.0 kg",
+    "weight_kg": "12.0 - 13.0",
     "listings_above_threshold": "USD 178.58",
     "listings_below_threshold": "USD 178.58"
   },
   {
-    "weight_kg": "13.0 - 14.0 kg",
+    "weight_kg": "13.0 - 14.0",
     "listings_above_threshold": "USD 192.28",
     "listings_below_threshold": "USD 192.28"
   },
   {
-    "weight_kg": "14.0 - 15.0 kg and beyond",
+    "weight_kg": "14.0 - 15.0  and beyond",
     "listings_above_threshold": "USD 205.98",
     "listings_below_threshold": "USD 205.98"
   }
