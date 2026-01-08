@@ -1,0 +1,548 @@
+{
+  "green_reputation": [
+    {
+      "weight_kg": "0 - 0.3",
+      "weight_lb": "0.0 - 0.7",
+      "price_below_299": "MXN 91.70",
+      "price_299_to_499": "MXN 52.40",
+      "price_above_299": "MXN 65.50"
+    },
+    {
+      "weight_kg": "0.3 - 0.5",
+      "weight_lb": "0.7 - 1.1",
+      "price_below_299": "MXN 98.00",
+      "price_299_to_499": "MXN 56.00",
+      "price_above_299": "MXN 70.00"
+    },
+    {
+      "weight_kg": "0.5 - 1",
+      "weight_lb": "1.1 - 2.2",
+      "price_below_299": "MXN 104.30",
+      "price_299_to_499": "MXN 59.60",
+      "price_above_299": "MXN 74.50"
+    },
+    {
+      "weight_kg": "1 - 2",
+      "weight_lb": "2.2 - 4.4",
+      "price_below_299": "MXN 118.30",
+      "price_299_to_499": "MXN 67.60",
+      "price_above_299": "MXN 84.50"
+    },
+    {
+      "weight_kg": "2 - 3",
+      "weight_lb": "4.4 - 6.6",
+      "price_below_299": "MXN 133.00",
+      "price_299_to_499": "MXN 76.00",
+      "price_above_299": "MXN 95.00"
+    },
+    {
+      "weight_kg": "3 - 4",
+      "weight_lb": "6.6 - 8.8",
+      "price_below_299": "MXN 144.20",
+      "price_299_to_499": "MXN 82.40",
+      "price_above_299": "MXN 103.00"
+    },
+    {
+      "weight_kg": "4 - 5",
+      "weight_lb": "8.8 - 11.0",
+      "price_below_299": "MXN 154.00",
+      "price_299_to_499": "MXN 88.00",
+      "price_above_299": "MXN 110.00"
+    },
+    {
+      "weight_kg": "5 - 7",
+      "weight_lb": "11.0 - 15.4",
+      "price_below_299": "MXN 171.50",
+      "price_299_to_499": "MXN 98.00",
+      "price_above_299": "MXN 122.50"
+    },
+    {
+      "weight_kg": "7 - 9",
+      "weight_lb": "15.4 - 19.8",
+      "price_below_299": "MXN 195.30",
+      "price_299_to_499": "MXN 111.60",
+      "price_above_299": "MXN 139.50"
+    },
+    {
+      "weight_kg": "9 - 12",
+      "weight_lb": "19.8 - 26.5",
+      "price_below_299": "MXN 226.10",
+      "price_299_to_499": "MXN 129.20",
+      "price_above_299": "MXN 161.50"
+    },
+    {
+      "weight_kg": "12 - 15",
+      "weight_lb": "26.5 - 33.1",
+      "price_below_299": "MXN 266.00",
+      "price_299_to_499": "MXN 152.00",
+      "price_above_299": "MXN 190.00"
+    },
+    {
+      "weight_kg": "15 - 20",
+      "weight_lb": "33.1 - 44.1",
+      "price_below_299": "MXN 311.50",
+      "price_299_to_499": "MXN 178.00",
+      "price_above_299": "MXN 222.50"
+    },
+    {
+      "weight_kg": "20 - 30",
+      "weight_lb": "44.1 - 66.1",
+      "price_below_299": "MXN 394.10",
+      "price_299_to_499": "MXN 225.20",
+      "price_above_299": "MXN 281.50"
+    },
+    {
+      "weight_kg": "30 - 40",
+      "weight_lb": "66.1 - 88.2",
+      "price_below_299": "MXN 488.60",
+      "price_299_to_499": "MXN 279.20",
+      "price_above_299": "MXN 349.00"
+    },
+    {
+      "weight_kg": "40 - 50",
+      "weight_lb": "88.2 - 110.2",
+      "price_below_299": "MXN 632.10",
+      "price_299_to_499": "MXN 361.20",
+      "price_above_299": "MXN 451.50"
+    },
+    {
+      "weight_kg": "50 - 60",
+      "weight_lb": "110.2 - 132.3",
+      "price_below_299": "MXN 709.80",
+      "price_299_to_499": "MXN 405.60",
+      "price_above_299": "MXN 507.00"
+    },
+    {
+      "weight_kg": "60 - 70",
+      "weight_lb": "132.3 - 154.3",
+      "price_below_299": "MXN 728.70",
+      "price_299_to_499": "MXN 416.40",
+      "price_above_299": "MXN 520.50"
+    },
+    {
+      "weight_kg": "70 - 80",
+      "weight_lb": "154.3 - 176.4",
+      "price_below_299": "MXN 758.80",
+      "price_299_to_499": "MXN 433.60",
+      "price_above_299": "MXN 542.00"
+    },
+    {
+      "weight_kg": "80 - 90",
+      "weight_lb": "176.4 - 198.4",
+      "price_below_299": "MXN 853.30",
+      "price_299_to_499": "MXN 487.60",
+      "price_above_299": "MXN 609.50"
+    },
+    {
+      "weight_kg": "90 - 100",
+      "weight_lb": "198.4 - 220.5",
+      "price_below_299": "MXN 984.20",
+      "price_299_to_499": "MXN 562.40",
+      "price_above_299": "MXN 703.00"
+    },
+    {
+      "weight_kg": "100 - 125",
+      "weight_lb": "220.5 - 275.6",
+      "price_below_299": "MXN 1,115.10",
+      "price_299_to_499": "MXN 637.20",
+      "price_above_299": "MXN 796.50"
+    },
+    {
+      "weight_kg": "125 - 150",
+      "weight_lb": "275.6 - 330.7",
+      "price_below_299": "MXN 1,480.00",
+      "price_299_to_499": "MXN 846.00",
+      "price_above_299": "MXN 1,057.50"
+    },
+    {
+      "weight_kg": "150 - 175",
+      "weight_lb": "330.7 - 385.8",
+      "price_below_299": "MXN 1,845.90",
+      "price_299_to_499": "MXN 1,054.80",
+      "price_above_299": "MXN 1,318.50"
+    },
+    {
+      "weight_kg": "175 - 200",
+      "weight_lb": "385.8 - 440.9",
+      "price_below_299": "MXN 2,211.30",
+      "price_299_to_499": "MXN 1,263.60",
+      "price_above_299": "MXN 1,579.50"
+    },
+    {
+      "weight_kg": "200 - 225",
+      "weight_lb": "440.9 - 496.0",
+      "price_below_299": "MXN 2,576.70",
+      "price_299_to_499": "MXN 1,472.40",
+      "price_above_299": "MXN 1,840.50"
+    },
+    {
+      "weight_kg": "225 - 250",
+      "weight_lb": "496.0 - 551.2",
+      "price_below_299": "MXN 2,942.10",
+      "price_299_to_499": "MXN 1,681.20",
+      "price_above_299": "MXN 2,101.50"
+    },
+    {
+      "weight_kg": "250 - 275",
+      "weight_lb": "551.2 - 606.3",
+      "price_below_299": "MXN 3,307.50",
+      "price_299_to_499": "MXN 1,890.00",
+      "price_above_299": "MXN 2,362.50"
+    },
+    {
+      "weight_kg": "275 - 300",
+      "weight_lb": "606.3 - 661.4",
+      "price_below_299": "MXN 3,672.20",
+      "price_299_to_499": "MXN 2,098.40",
+      "price_above_299": "MXN 2,623.00"
+    },
+    {
+      "weight_kg": "300 - 325",
+      "weight_lb": "661.4 - 716.5",
+      "price_below_299": "MXN 4,039.00",
+      "price_299_to_499": "MXN 2,308.00",
+      "price_above_299": "MXN 2,885.00"
+    },
+    {
+      "weight_kg": "325 and beyond",
+      "weight_lb": "716.5 and beyond",
+      "price_below_299": "MXN 4,404.40",
+      "price_299_to_499": "MXN 2,516.80",
+      "price_above_299": "MXN 3,146.00"
+    }
+  ],
+  "yellow_reputation": [
+    {
+      "weight_kg": "0 - 0.3",
+      "weight_lb": "0.0 - 0.7",
+      "price_below_299": "MXN 104.80",
+      "price_above_299": "MXN 78.60"
+    },
+    {
+      "weight_kg": "0.3 - 0.5",
+      "weight_lb": "0.7 - 1.1",
+      "price_below_299": "MXN 112.00",
+      "price_above_299": "MXN 84.00"
+    },
+    {
+      "weight_kg": "0.5 - 1",
+      "weight_lb": "1.1 - 2.2",
+      "price_below_299": "MXN 119.20",
+      "price_above_299": "MXN 89.40"
+    },
+    {
+      "weight_kg": "1 - 2",
+      "weight_lb": "2.2 - 4.4",
+      "price_below_299": "MXN 135.20",
+      "price_above_299": "MXN 101.40"
+    },
+    {
+      "weight_kg": "2 - 3",
+      "weight_lb": "4.4 - 6.6",
+      "price_below_299": "MXN 152.00",
+      "price_above_299": "MXN 114.00"
+    },
+    {
+      "weight_kg": "3 - 4",
+      "weight_lb": "6.6 - 8.8",
+      "price_below_299": "MXN 164.80",
+      "price_above_299": "MXN 123.60"
+    },
+    {
+      "weight_kg": "4 - 5",
+      "weight_lb": "8.8 - 11.0",
+      "price_below_299": "MXN 176.00",
+      "price_above_299": "MXN 132.00"
+    },
+    {
+      "weight_kg": "5 - 7",
+      "weight_lb": "11.0 - 15.4",
+      "price_below_299": "MXN 196.00",
+      "price_above_299": "MXN 147.00"
+    },
+    {
+      "weight_kg": "7 - 9",
+      "weight_lb": "15.4 - 19.8",
+      "price_below_299": "MXN 223.20",
+      "price_above_299": "MXN 167.40"
+    },
+    {
+      "weight_kg": "9 - 12",
+      "weight_lb": "19.8 - 26.5",
+      "price_below_299": "MXN 258.40",
+      "price_above_299": "MXN 193.80"
+    },
+    {
+      "weight_kg": "12 - 15",
+      "weight_lb": "26.5 - 33.1",
+      "price_below_299": "MXN 304.00",
+      "price_above_299": "MXN 228.00"
+    },
+    {
+      "weight_kg": "15 - 20",
+      "weight_lb": "33.1 - 44.1",
+      "price_below_299": "MXN 356.00",
+      "price_above_299": "MXN 267.00"
+    },
+    {
+      "weight_kg": "20 - 30",
+      "weight_lb": "44.1 - 66.1",
+      "price_below_299": "MXN 450.40",
+      "price_above_299": "MXN 337.80"
+    },
+    {
+      "weight_kg": "30 - 40",
+      "weight_lb": "66.1 - 88.2",
+      "price_below_299": "MXN 558.40",
+      "price_above_299": "MXN 418.80"
+    },
+    {
+      "weight_kg": "40 - 50",
+      "weight_lb": "88.2 - 110.2",
+      "price_below_299": "MXN 772.40",
+      "price_above_299": "MXN 541.80"
+    },
+    {
+      "weight_kg": "50 - 60",
+      "weight_lb": "110.2 - 132.3",
+      "price_below_299": "MXN 811.20",
+      "price_above_299": "MXN 608.40"
+    },
+    {
+      "weight_kg": "60 - 70",
+      "weight_lb": "132.3 - 154.3",
+      "price_below_299": "MXN 832.80",
+      "price_above_299": "MXN 624.60"
+    },
+    {
+      "weight_kg": "70 - 80",
+      "weight_lb": "154.3 - 176.4",
+      "price_below_299": "MXN 867.20",
+      "price_above_299": "MXN 650.40"
+    },
+    {
+      "weight_kg": "80 - 90",
+      "weight_lb": "176.4 - 198.4",
+      "price_below_299": "MXN 975.20",
+      "price_above_299": "MXN 731.40"
+    },
+    {
+      "weight_kg": "90 - 100",
+      "weight_lb": "198.4 - 220.5",
+      "price_below_299": "MXN 1,124.80",
+      "price_above_299": "MXN 843.60"
+    },
+    {
+      "weight_kg": "100 - 125",
+      "weight_lb": "220.5 - 275.6",
+      "price_below_299": "MXN 1,274.40",
+      "price_above_299": "MXN 955.80"
+    },
+    {
+      "weight_kg": "125 - 150",
+      "weight_lb": "275.6 - 330.7",
+      "price_below_299": "MXN 1,692.00",
+      "price_above_299": "MXN 1,269.00"
+    },
+    {
+      "weight_kg": "150 - 175",
+      "weight_lb": "330.7 - 385.8",
+      "price_below_299": "MXN 2,109.60",
+      "price_above_299": "MXN 1,582.20"
+    },
+    {
+      "weight_kg": "175 - 200",
+      "weight_lb": "385.8 - 440.9",
+      "price_below_299": "MXN 2,527.20",
+      "price_above_299": "MXN 1,895.40"
+    },
+    {
+      "weight_kg": "200 - 225",
+      "weight_lb": "440.9 - 496.0",
+      "price_below_299": "MXN 2,944.80",
+      "price_above_299": "MXN 2,208.60"
+    },
+    {
+      "weight_kg": "225 - 250",
+      "weight_lb": "496.0 - 551.2",
+      "price_below_299": "MXN 3,362.40",
+      "price_above_299": "MXN 2,518.00"
+    },
+    {
+      "weight_kg": "250 - 275",
+      "weight_lb": "551.2 - 606.3",
+      "price_below_299": "MXN 3,780.00",
+      "price_above_299": "MXN 2,835.00"
+    },
+    {
+      "weight_kg": "275 - 300",
+      "weight_lb": "606.3 - 661.4",
+      "price_below_299": "MXN 4,196.80",
+      "price_above_299": "MXN 3,147.60"
+    },
+    {
+      "weight_kg": "300 - 325",
+      "weight_lb": "661.4 - 716.5",
+      "price_below_299": "MXN 4,616.00",
+      "price_above_299": "MXN 3,462.00"
+    },
+    {
+      "weight_kg": "325 and beyond",
+      "weight_lb": "716.5 and beyond",
+      "price_below_299": "MXN 5,033.60",
+      "price_above_299": "MXN 3,775.20"
+    }
+  ],
+  "red_reputation": [
+    {
+      "weight_kg": "0 - 0.3",
+      "weight_lb": "0.0 - 0.7",
+      "price_all": "MXN 131.00"
+    },
+    {
+      "weight_kg": "0.3 - 0.5",
+      "weight_lb": "0.7 - 1.1",
+      "price_all": "MXN 140.00"
+    },
+    {
+      "weight_kg": "0.5 - 1",
+      "weight_lb": "1.1 - 2.2",
+      "price_all": "MXN 149.00"
+    },
+    {
+      "weight_kg": "1 - 2",
+      "weight_lb": "2.2 - 4.4",
+      "price_all": "MXN 169.00"
+    },
+    {
+      "weight_kg": "2 - 3",
+      "weight_lb": "4.4 - 6.6",
+      "price_all": "MXN 190.00"
+    },
+    {
+      "weight_kg": "3 - 4",
+      "weight_lb": "6.6 - 8.8",
+      "price_all": "MXN 206.00"
+    },
+    {
+      "weight_kg": "4 - 5",
+      "weight_lb": "8.8 - 11.0",
+      "price_all": "MXN 220.00"
+    },
+    {
+      "weight_kg": "5 - 7",
+      "weight_lb": "11.0 - 15.4",
+      "price_all": "MXN 245.00"
+    },
+    {
+      "weight_kg": "7 - 9",
+      "weight_lb": "15.4 - 19.8",
+      "price_all": "MXN 279.00"
+    },
+    {
+      "weight_kg": "9 - 12",
+      "weight_lb": "19.8 - 26.5",
+      "price_all": "MXN 323.00"
+    },
+    {
+      "weight_kg": "12 - 15",
+      "weight_lb": "26.5 - 33.1",
+      "price_all": "MXN 380.00"
+    },
+    {
+      "weight_kg": "15 - 20",
+      "weight_lb": "33.1 - 44.1",
+      "price_all": "MXN 445.00"
+    },
+    {
+      "weight_kg": "20 - 30",
+      "weight_lb": "44.1 - 66.1",
+      "price_all": "MXN 563.00"
+    },
+    {
+      "weight_kg": "30 - 40",
+      "weight_lb": "66.1 - 88.2",
+      "price_all": "MXN 698.00"
+    },
+    {
+      "weight_kg": "40 - 50",
+      "weight_lb": "88.2 - 110.2",
+      "price_all": "MXN 903.00"
+    },
+    {
+      "weight_kg": "50 - 60",
+      "weight_lb": "110.2 - 132.3",
+      "price_all": "MXN 1,014.00"
+    },
+    {
+      "weight_kg": "60 - 70",
+      "weight_lb": "132.3 - 154.3",
+      "price_all": "MXN 1,041.00"
+    },
+    {
+      "weight_kg": "70 - 80",
+      "weight_lb": "154.3 - 176.4",
+      "price_all": "MXN 1,084.00"
+    },
+    {
+      "weight_kg": "80 - 90",
+      "weight_lb": "176.4 - 198.4",
+      "price_all": "MXN 1,219.00"
+    },
+    {
+      "weight_kg": "90 - 100",
+      "weight_lb": "198.4 - 220.5",
+      "price_all": "MXN 1,406.00"
+    },
+    {
+      "weight_kg": "100 - 125",
+      "weight_lb": "220.5 - 275.6",
+      "price_all": "MXN 1,593.00"
+    },
+    {
+      "weight_kg": "125 - 150",
+      "weight_lb": "275.6 - 330.7",
+      "price_all": "MXN 2,115.00"
+    },
+    {
+      "weight_kg": "150 - 175",
+      "weight_lb": "330.7 - 385.8",
+      "price_all": "MXN 2,637.00"
+    },
+    {
+      "weight_kg": "175 - 200",
+      "weight_lb": "385.8 - 440.9",
+      "price_all": "MXN 3,159.00"
+    },
+    {
+      "weight_kg": "200 - 225",
+      "weight_lb": "440.9 - 496.0",
+      "price_all": "MXN 3,681.00"
+    },
+    {
+      "weight_kg": "225 - 250",
+      "weight_lb": "496.0 - 551.2",
+      "price_all": "MXN 4,203.00"
+    },
+    {
+      "weight_kg": "250 - 275",
+      "weight_lb": "551.2 - 606.3",
+      "price_all": "MXN 4,725.00"
+    },
+    {
+      "weight_kg": "275 - 300",
+      "weight_lb": "606.3 - 661.4",
+      "price_all": "MXN 5,246.00"
+    },
+    {
+      "weight_kg": "300 - 325",
+      "weight_lb": "661.4 - 716.5",
+      "price_all": "MXN 5,770.00"
+    },
+    {
+      "weight_kg": "325 and beyond",
+      "weight_lb": "716.5 and beyond",
+      "price_all": "MXN 6,292.00"
+    }
+  ]
+}
