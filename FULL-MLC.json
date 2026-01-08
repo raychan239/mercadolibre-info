@@ -1,0 +1,117 @@
+{
+  "green_reputation": [],
+  "yellow_reputation": [
+    {
+      "weight_kg": "0 - 1.5",
+      "weight_lb": "0 - 3.3",
+      "price_below_299": "CLP 5,300.00",
+      "price_above_299": "CLP 3,180.00"
+    },
+    {
+      "weight_kg": "1.5 - 3",
+      "weight_lb": "3.3 - 6.6",
+      "price_below_299": "CLP 6,100.00",
+      "price_above_299": "CLP 3,660.00"
+    },
+    {
+      "weight_kg": "3 - 6",
+      "weight_lb": "6.6 - 13.2",
+      "price_below_299": "CLP 8,600.00",
+      "price_above_299": "CLP 5,160.00"
+    },
+    {
+      "weight_kg": "6 - 10",
+      "weight_lb": "13.2 - 22",
+      "price_below_299": "CLP 10,200.00",
+      "price_above_299": "CLP 6,120.00"
+    },
+    {
+      "weight_kg": "10 - 15",
+      "weight_lb": "22 - 33",
+      "price_below_299": "CLP 12,500.00",
+      "price_above_299": "CLP 7,500.00"
+    },
+    {
+      "weight_kg": "15 - 20",
+      "weight_lb": "33.1 - 44.1",
+      "price_below_299": "CLP 14,400.00",
+      "price_above_299": "CLP 8,640.00"
+    },
+    {
+      "weight_kg": "20 - 25",
+      "weight_lb": "44.1 - 55.1",
+      "price_below_299": "CLP 17,700.00",
+      "price_above_299": "CLP 10,620.00"
+    },
+    {
+      "weight_kg": "25 - 30",
+      "weight_lb": "55.1 - 66.1",
+      "price_below_299": "CLP 24,200.00",
+      "price_above_299": "CLP 14,520.00"
+    },
+    {
+      "weight_kg": "30 - 40",
+      "weight_lb": "66.1 - 88.2",
+      "price_below_299": "CLP 26,300.00",
+      "price_above_299": "CLP 15,780.00"
+    },
+    {
+      "weight_kg": "40 and beyond",
+      "weight_lb": "88.2 and beyond",
+      "price_below_299": "CLP 33,600.00",
+      "price_above_299": "CLP 20,160.00"
+    }
+  ],
+  "red_reputation": [
+    {
+      "weight_kg": "0 - 1.5",
+      "weight_lb": "0 - 3.3",
+      "price_all": "CLP 5,300.00"
+    },
+    {
+      "weight_kg": "1.5 - 3",
+      "weight_lb": "3.3 - 6.6",
+      "price_all": "CLP 6,100.00"
+    },
+    {
+      "weight_kg": "3 - 6",
+      "weight_lb": "6.6 - 13.2",
+      "price_all": "CLP 8,600.00"
+    },
+    {
+      "weight_kg": "6 - 10",
+      "weight_lb": "13.2 - 22",
+      "price_all": "CLP 10,200.00"
+    },
+    {
+      "weight_kg": "10 - 15",
+      "weight_lb": "22 - 33",
+      "price_all": "CLP 12,500.00"
+    },
+    {
+      "weight_kg": "15 - 20",
+      "weight_lb": "33.1 - 44.1",
+      "price_all": "CLP 14,400.00"
+    },
+    {
+      "weight_kg": "20 - 25",
+      "weight_lb": "44.1 - 55.1",
+      "price_all": "CLP 17,700.00"
+    },
+    {
+      "weight_kg": "25 - 30",
+      "weight_lb": "55.1 - 66.1",
+      "price_all": "CLP 24,200.00"
+    },
+    {
+      "weight_kg": "30 - 40",
+      "weight_lb": "66.1 - 88.2",
+      "price_all": "CLP 26,300.00"
+    },
+    {
+      "weight_kg": "40 and beyond",
+      "weight_lb": "88.2 and beyond",
+      "price_all": "CLP 33,600.00"
+    }
+  ]
+}
